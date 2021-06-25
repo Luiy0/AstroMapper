@@ -3,5 +3,4 @@ Python application to map the distribution of possible galactic sources in the z
 
 This project was presented at the 236th meeting of the American Astronomical Society (2020) and can be found [here](https://aas236-aas.ipostersessions.com/default.aspx?s=AA-5F-DB-00-26-CA-F4-67-6F-E0-BF-20-89-8D-9D-74)    
 
-![Project_Sources_H1](https://user-images.githubusercontent.com/72321786/123405945-47be3c80-d5a2-11eb-85ce-a1bbd0260638.png)
 ![Project_Sources_Dust](https://user-images.githubusercontent.com/72321786/123405964-4c82f080-d5a2-11eb-8397-ad467e388258.png)
