@@ -1,5 +1,5 @@
 # AstroMapper
-Python application to map distribution of possible galactic sources in the zone of avoidance found with GLIMPSE3D. All colored dots except yellow and blue represent confirmed galaxies from different surveys and databases. The blue dots correspond to newly identified sources found by eye inspection of infrared data near the galactic center (ZOA). Open circles represent galaxy clusters that are part of the Ophiuchus supercluster with its center at the cD cluster identified by a cross.  
+Python application to map the distribution of possible galactic sources in the zone of avoidance found with [GLIMPSE3D](http://www.astro.wisc.edu/sirtf/). All colored dots except yellow and blue represent confirmed galaxies from different surveys and databases. The blue dots correspond to newly identified sources found by eye inspection of infrared data near the galactic center (ZOA). Open circles represent galaxy clusters that are part of the Ophiuchus supercluster with its center at the cD cluster identified by a cross.  
 
 This project was presented at the 236th meeting of the American Astronomical Society (2020) and can be found [here](https://aas236-aas.ipostersessions.com/default.aspx?s=AA-5F-DB-00-26-CA-F4-67-6F-E0-BF-20-89-8D-9D-74)    
 
